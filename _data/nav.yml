@@ -5,10 +5,10 @@
   path: about-vdm.html
   section_id: about
   children:
-    name: Creative Team
-    path: index.html
-    name: Sponsors
-    path: index.html
+    - name: Creative Team
+      path: index.html
+    - name: Sponsors
+      path: index.html
 #- name: About
 #  path: about.html
 #  section_id: about
