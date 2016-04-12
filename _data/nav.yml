@@ -1,16 +1,10 @@
 - name: Home
   path: index.html
 - name: Seasons
-#  path: seasons.html
   section_id: seasons
   children:
     - name: Season 4
-      section_id: season4
-      children:
-        - name: Challenge 1
-          path: index.html
-        - name: Challenge 2
-          path: index.html
+      path: index.html
     - name: Season 3
       path: index.html
     - name: Season 2
