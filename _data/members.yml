@@ -24,3 +24,11 @@
       icon: twitter
   desc:
     Melissa is the original designer of the Virtual Design Master storyline and a Technical Marketing Engineer.
+  - avatar: images/@stock/member-4.jpg
+  name: You!
+  position: Community Rock Stars
+  socials:
+    - link: http://twitter.com/vdmchallenge
+      icon: twitter
+  desc:
+    None of this would be possible without the support of this amazing community.
