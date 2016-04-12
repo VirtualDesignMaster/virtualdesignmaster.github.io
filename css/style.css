@@ -804,7 +804,7 @@ ul.shortcode-list i {
 }
 .top-bar .title-area .name h1 a {
   font-size: 2.57143rem;
-  color: #ffffff; /* was 333 */
+  color: #333;
 }
 
 .contain-to-grid {
