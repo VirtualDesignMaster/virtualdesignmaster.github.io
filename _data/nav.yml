@@ -1,7 +1,7 @@
 - name: Home
   path: index.html
 - name: Seasons
-  path: seasons.html
+#  path: seasons.html
   section_id: seasons
   children:
     - name: Season 4
