@@ -1,6 +1,70 @@
 - name: Home
   path: index.html
   section_id: home
+- name: Seasons
+  children:
+    - name: Season 4
+      children: 
+        -name: Become a Participant
+         path: index.html
+        -name: Sponsor the Competition
+         path: index.html
+    - name: Season 3
+      children: 
+        -name: Challenge 1
+         path: index.html
+        -name: Challenge 2
+         path: index.html
+        -name: Challenge 3
+         path: index.html
+        -name: Challenge 4
+         path: index.html
+        -name: Judges
+         path: index.html
+        -name: Participants
+         path: index.html
+    - name: Season 2
+      children: 
+        -name: Challenge 1
+         path: index.html
+        -name: Challenge 2
+         path: index.html
+        -name: Challenge 3
+         path: index.html
+        -name: Challenge 4
+         path: index.html
+        -name: Judges
+         path: index.html
+        -name: Participants
+         path: index.html
+    - name: Season 2
+      children: 
+        -name: Challenge 1
+         path: index.html
+        -name: Challenge 2
+         path: index.html
+        -name: Challenge 3
+         path: index.html
+        -name: Challenge 4
+         path: index.html
+        -name: Judges
+         path: index.html
+        -name: Participants
+         path: index.html
+    - name: Season 1
+      children: 
+        -name: Challenge 1
+         path: index.html
+        -name: Challenge 2
+         path: index.html
+        -name: Challenge 3
+         path: index.html
+        -name: Challenge 4
+         path: index.html
+        -name: Judges
+         path: index.html
+        -name: Participants
+         path: index.html
 - name: About
   path: about-vdm.html
   section_id: about
