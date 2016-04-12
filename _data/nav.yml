@@ -1,6 +1,14 @@
 - name: Home
   path: index.html
   section_id: home
+- name: About
+  path: about-vdm.html
+  section_id: about
+  children:
+    name: Creative Team
+    path: crative-team.html
+    name: Sponsors
+    path: sponsors.html
 #- name: About
 #  path: about.html
 #  section_id: about
