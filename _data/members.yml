@@ -1,44 +1,27 @@
 - avatar: images/@stock/member-1.jpg
-  name: Mark Wayne
-  position: Founder
+  name: Eric Wright
+  position: Co-Founder
   socials:
-    - link: http://twitter.com
+    - link: http://twitter.com/DiscoPosse
       icon: twitter
-    - link: http://facebook.com
-      icon: facebook
+    - link: http://www.discoposse.com
+      icon: blog
   desc:
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+    Eric is a co-founder of the Virtual Design Master event and a Technology Evangelist.
 - avatar: images/@stock/member-2.jpg
-  name: Kate Holms
+  name: Angelo Luciani
+  position: Co-Founder 
+  socials:
+    - link: http://twitter.com/AngeloLuciani
+      icon: twitter
+  desc:
+    Angelo is a co-founder of the Virtual Design Master event and Community Manager.
+- avatar: images/@stock/member-3.jpg
+  name: Melissa Wright
   position: Creative Director
   socials:
-    - link: http://twitter.com
+    - link: http://twitter.com/vmiss33
       icon: twitter
-    - link: http://facebook.com
-      icon: facebook
-    - link: http://dribbble.com
-      icon: dribbble
   desc:
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
-- avatar: images/@stock/member-3.jpg
-  name: Tome Hason
-  position: Designer
-  socials:
-    - link: http://twitter.com
-      icon: twitter
-    - link: http://facebook.com
-      icon: facebook
-    - link: http://tumblr.com
-      icon: tumblr
-  desc:
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
-- avatar: images/@stock/member-4.jpg
-  name: Lily Whrem
-  position: Developer
-  socials:
-    - link: http://twitter.com
-      icon: twitter
-    - link: http://facebook.com
-      icon: facebook
-  desc:
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
+    Melissa is the original designer of the Virtual Design Master storyline and a Technical Marketing Engineer.
+-
