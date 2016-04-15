@@ -43,25 +43,25 @@ slides:
         - text: Learn More
           link_to: http://virtualdesignmaster.com
 
-works:
+challenges:
   - image: images/@stock/work-1.jpg
     title: Design
-    link_to: portfolio-item.html
+    link_to: challenge-item-design.html
     klass: graphi-design
     desc: Design
   - image: images/@stock/work-2.jpg
     title: Protect
-    link_to: portfolio-item.html
+    link_to: challenge-item-protect.html
     klass: graphi-design
     desc: Protect
   - image: images/@stock/work-3.jpg
     title: Orchestrate
-    link_to: portfolio-item.html
+    link_to: challenge-item-orchestrate.html
     klass: graphi-design
     desc: Orchestrate
   - image: images/@stock/work-4.jpg
     title: Deploy
-    link_to: portfolio-item.html
+    link_to: challenge-item-deploy.html
     klass: graphi-design
     desc: Deploy
 
@@ -190,14 +190,14 @@ milestones:
 
   <div class="mod modGallery">
     <ul class="gallery small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-      {% for work in page.works %}
-        <li class="{{ work.klass }}">
-          <a href='{{ work.link_to }}'>
-            <img alt="" src="{{ work.image }}" />
+      {% for challenge in page.challenges %}
+        <li class="{{ challlenge.klass }}">
+          <a href='{{ challenge.link_to }}'>
+            <img alt="" src="{{ challenge.image }}" />
             <div class='overlay'>
               <div class='thumb-info'>
-                <h3>{{ work.title }}</h3>
-                <p>{{ work.desc }}</p>
+                <h3>{{ challenge.title }}</h3>
+                <p>{{ challenge.desc }}</p>
               </div>
             </div>
           </a>
