@@ -3,22 +3,22 @@
 - name: Seasons
   section_id: seasons
   children:
-    - name: Season 4
-      path: index.html
-    - name: Season 3
-      path: index.html
+    - name: Season 4 
+      path: all-seasons.html
+    - name: Season 3 
+      path: all-seasons.html
     - name: Season 2
-      path: index.html
+      path: all-seasons.html
     - name: Season 1
-      path: index.html
+      path: all-seasons.html
 - name: About
   path: about-vdm.html
   section_id: about
   children:
     - name: Creative Team
-      path: index.html
+      path: index.html#team
     - name: Sponsors
-      path: index.html
+      path: index.html#team
 #- name: About
 #  path: about.html
 #  section_id: about
