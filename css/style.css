@@ -1768,7 +1768,7 @@ form input.error, form textarea.error {
 .modBoxedSlider .caption p {
   display: inline-block;
   background: #F9CE06;
-  color: #fff;
+  color: #000;
   font-family: "droid serif";
   margin-bottom: 0;
   padding: 10px 20px;
