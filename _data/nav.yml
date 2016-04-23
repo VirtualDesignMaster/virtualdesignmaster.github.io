@@ -1,24 +1,24 @@
 - name: Home
   path: index.html
-- name: Seasons
-  section_id: seasons
-  children:
-    - name: Season 4 
-      path: all-seasons.html
-    - name: Season 3 
-      path: all-seasons.html
-    - name: Season 2
-      path: all-seasons.html
-    - name: Season 1
-      path: all-seasons.html
+- name: Seasons coming soon!
+#  section_id: seasons
+#  children:
+#    - name: Season 4 
+#      path: all-seasons.html
+#    - name: Season 3 
+#      path: all-seasons.html
+#    - name: Season 2
+#      path: all-seasons.html
+#    - name: Season 1
+#      path: all-seasons.html
 - name: About
-  path: about-vdm.html
+  #path: about-vdm.html
   section_id: about
   children:
     - name: Creative Team
       path: index.html#team
-    - name: Sponsors
-      path: index.html#team
+    #- name: Sponsors
+    #  path: index.html#team
 #- name: About
 #  path: about.html
 #  section_id: about
