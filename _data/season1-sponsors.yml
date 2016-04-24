@@ -1,0 +1,32 @@
+- avatar: images/team-eric.png
+  name: baremetalcloud
+  position: Premier Sponsor
+  socials:
+    - link: http://www.baremetalcloud.com
+      icon: twitter
+  desc:
+    Eric is a co-founder of the Virtual Design Master event and a Technology Evangelist.
+- avatar: images/team-angelo.png
+  name: AngeloLuciani
+  position: Co-Founder 
+  socials:
+    - link: http://twitter.com/AngeloLuciani
+      icon: twitter
+  desc:
+    Angelo is a co-founder of the Virtual Design Master event and Community Manager.
+- avatar: images/team-melissa.png
+  name: vMiss33
+  position: Creative Director
+  socials:
+    - link: http://twitter.com/vmiss33
+      icon: twitter
+  desc:
+    Melissa is the original designer of the Virtual Design Master storyline and a Technical Marketing Engineer.
+- avatar: images/team-you.png
+  name: You!
+  position: Powered by Community
+  socials:
+    - link: http://twitter.com/vdmchallenge
+      icon: twitter
+  desc:
+    None of this would be possible without the support of this amazing community.
