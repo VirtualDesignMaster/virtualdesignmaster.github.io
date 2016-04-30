@@ -1,6 +1,6 @@
 - name: Home
   path: index.html
-- name: Seasons coming soon!
+# name: Watch vDM
 #  section_id: seasons
 #  children:
 #    - name: Season 4 
@@ -13,13 +13,18 @@
 #      path: all-seasons.html
 - name: Become a Sponsor
   path: become-a-sponsor.html
-- name: About
+- name: Participants
+  path: participants.html
+- name: About vDM
   #path: about-vdm.html
   section_id: about
   children:
+    - name: Judges
+      path: judges.html
+    - name: Sponsors
+      path: sponsors.html
     - name: Creative Team
       path: index.html#team
-
 #- name: About
 #  path: about.html
 #  section_id: about
