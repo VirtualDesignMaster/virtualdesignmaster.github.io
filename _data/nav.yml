@@ -3,6 +3,8 @@
 - name: Become a Sponsor!
   path: become-a-sponsor.html
 - name: Seasons coming soon!
+- name: Judges
+  path: judges.html
 #  section_id: seasons
 #  children:
 #    - name: Season 4 
