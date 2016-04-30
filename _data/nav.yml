@@ -11,14 +11,15 @@
 #      path: all-seasons.html
 #    - name: Season 1
 #      path: all-seasons.html
+- name: Become a Sponsor
+  path: become-a-sponsor.html
 - name: About
   #path: about-vdm.html
   section_id: about
   children:
     - name: Creative Team
       path: index.html#team
-    #- name: Sponsors
-    #  path: index.html#team
+
 #- name: About
 #  path: about.html
 #  section_id: about
