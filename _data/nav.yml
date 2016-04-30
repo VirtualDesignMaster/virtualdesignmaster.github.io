@@ -13,6 +13,8 @@
       path: season2.html
     - name: Season 1
       path: season1.html
+    - name: Special Events
+      path: special-events.html
 - name: About
   #path: about-vdm.html
   section_id: about
