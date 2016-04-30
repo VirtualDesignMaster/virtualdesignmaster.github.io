@@ -11,6 +11,5 @@ github_username:  virtualdesignmaster
 # Build settings
 markdown: kramdown
 
-
 paginate: 3
 paginate_path: "blog/page:num"
