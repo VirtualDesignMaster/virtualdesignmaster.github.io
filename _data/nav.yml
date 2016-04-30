@@ -1,0 +1,43 @@
+- name: Home
+  path: index.html
+- name: Become a Sponsor!
+  path: become-a-sponsor.html
+- name: Seasons coming soon!
+#  section_id: seasons
+#  children:
+#    - name: Season 4 
+#      path: all-seasons.html
+#    - name: Season 3 
+#      path: all-seasons.html
+#    - name: Season 2
+#      path: all-seasons.html
+#    - name: Season 1
+#      path: all-seasons.html
+- name: About
+  #path: about-vdm.html
+  section_id: about
+  children:
+    - name: Creative Team
+      path: index.html#team
+    #- name: Sponsors
+    #  path: index.html#team
+#- name: About
+#  path: about.html
+#  section_id: about
+#- name: Services
+#  path: services.html
+#  section_id: services
+#- name: Portfolio
+#  path: portfolio.html
+#  section_id: portfolio
+#  children:
+#    - name: Portfolio
+#      path: portfolio.html
+#    - name: Portfolio item
+#      path: portfolio-item.html
+#- name: Contact
+#  path: contact.html
+#  section_id: contact
+#- name: Blog
+#  path: blog/
+#  section_id: blog
