@@ -1,5 +1,7 @@
 - name: Home
   path: index.html
+- name: Compete in Season 4!
+  path: become-a-participant.html
 - name: Become a Sponsor!
   path: become-a-sponsor.html
 - name: Episodes
