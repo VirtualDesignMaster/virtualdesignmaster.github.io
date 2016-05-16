@@ -21,6 +21,8 @@
   #path: about-vdm.html
   section_id: about
   children:
+    - name: Winners
+      path: winners.html
     - name: Judges
       path: judges.html
     - name: Creative Team

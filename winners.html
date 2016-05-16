@@ -1,0 +1,75 @@
+---
+layout: default
+title: Judges
+section_id: portfolio
+works:
+  - image: https://twitter.com/akmal_waheed/profile_image?size=original
+    title: Josh Atwell
+    link_to: https://twitter.com/akmal_waheed
+    klass: season1
+    desc: Season 1
+  - image: https://twitter.com/awschamp/profile_image?size=original
+    title: Timothy Patterson
+    link_to: https://twitter.com/awschamp
+    klass: season2 
+    desc: Season 2 
+  - image: https://twitter.com/StevenViljoen/profile_image?size=original
+    title: Steven Viljoen
+    link_to: https://twitter.com/StevenViljoen
+    klass: season3
+    desc: Season 3
+---
+
+<div class='full parallax' style='background-image: url(images/sponsor-bg.jpg); color: #fff;'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html title="Meet the Virtual Design Masters" tagline="Season Champions" color="#fff" class="big" %}
+    </div>
+  </div>
+  <div class='four spacing'></div>
+</div>
+
+
+<div class='full'>
+  <div class='row'>
+    <div class='mod modGallery'>
+      <div class='gallery-nav'>
+        <ul>
+          <li class='current'>
+            <a data-cat='all' href='#'>All</a>
+          </li>
+          <li>
+            <a data-cat='season1' href='#'>Season 1</a>
+          </li>
+          <li>
+            <a data-cat='season2' href='#'>Season 2</a>
+          </li>
+          <li>
+            <a data-cat='season3' href='#'>Season 3</a>
+          </li>
+        </ul>
+      </div>
+
+      <ul class='gallery large-block-grid-3 medium-block-grid-2 small-block-grid-1'>
+
+        {% for work in page.works %}
+          <li class="{{ work.klass }}">
+            <a href='{{ work.link_to }}'>
+              <img alt="" src="{{ work.image }}" />
+              <div class='overlay'>
+                <div class='thumb-info'>
+                  <h3>{{ work.title }}</h3>
+                  <p>{{ work.desc }}</p>
+                </div>
+              </div>
+            </a>
+          </li>
+        {% endfor %}
+
+      </ul>
+
+    </div>
+  </div>
+
+  <div class='three spacing'></div>
+</div>
