@@ -7,9 +7,11 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: vdmchallenge
 github_username:  virtualdesignmaster
+host: 0.0.0.0
 
 # Build settings
 markdown: kramdown
 
+gems: [jekyll-paginate]
 paginate: 3
 paginate_path: "blog/page:num"
