@@ -24,7 +24,7 @@
     - name: Winners
       path: winners.html
     - name: Participants
-      path: participnats.html
+      path: participants.html
     - name: Judges
       path: judges.html
     - name: Creative Team
