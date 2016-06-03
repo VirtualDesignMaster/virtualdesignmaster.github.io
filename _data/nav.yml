@@ -1,5 +1,7 @@
 - name: Home
   path: index.html
+- name: Blog
+  path: blog/
 - name: Compete in Season 4!
   path: become-a-participant.html
 - name: Become a Sponsor!
@@ -21,10 +23,12 @@
   #path: about-vdm.html
   section_id: about
   children:
+#    - name: Sponsors
+#      path: sponsors.html
     - name: Winners
       path: winners.html
-    - name: Participants
-      path: participants.html
+#    - name: Participants
+#      path: participants.html
     - name: Judges
       path: judges.html
     - name: Creative Team

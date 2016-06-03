@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-02-10 08:19:12
-categories: jekyll update
+title:  "Season 4 Registration Closing June 12th"
+date:   2016-06-03 11:00:00
+categories: registration season4
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
