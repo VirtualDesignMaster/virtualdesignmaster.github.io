@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Welcome Grand Prize sponsor VMTurbo!
-date:   2016-06-09 16:00:00
+date:   2016-06-10 08:00:00
 categories: sponsor
 author: "Eric Wright"
 ---
