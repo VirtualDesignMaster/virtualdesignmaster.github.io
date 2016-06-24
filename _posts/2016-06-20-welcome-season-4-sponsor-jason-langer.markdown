@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Welcome Community Sponsor - Jason Langer - VirtualLanger.com!
-date:   2016-06-18 08:00:00
+date:   2016-06-20 08:00:00
 categories: sponsor
 author: "Eric Wright"
 ---
