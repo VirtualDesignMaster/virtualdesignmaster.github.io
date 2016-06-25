@@ -6,8 +6,10 @@
   path: blog/
 #- name: Compete in Season 4!
 #  path: become-a-participant.html
-- name: Become a Sponsor!
-  path: become-a-sponsor.html
+- name: Participants
+  path: participants.html
+#- name: Become a Sponsor!
+ # path: become-a-sponsor.html
 - name: Episodes
   section_id: seasons
   children:
