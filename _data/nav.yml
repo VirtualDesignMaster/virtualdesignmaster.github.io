@@ -29,8 +29,8 @@
 #      path: sponsors.html
     - name: Winners
       path: winners.html
-#    - name: Participants
-#      path: participants.html
+    - name: Participants
+      path: participants.html
     - name: Judges
       path: judges.html
     - name: Creative Team
