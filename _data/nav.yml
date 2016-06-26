@@ -8,8 +8,8 @@
 #  path: become-a-participant.html
 - name: Participants
   path: participants.html
-#- name: Become a Sponsor!
- # path: become-a-sponsor.html
+- name: Sponsors
+  path: sponsors.html
 - name: Episodes
   section_id: seasons
   children:
@@ -27,8 +27,8 @@
   #path: about-vdm.html
   section_id: about
   children:
-#    - name: Sponsors
-#      path: sponsors.html
+    - name: Sponsors
+      path: sponsors.html
     - name: Winners
       path: winners.html
     - name: Participants
