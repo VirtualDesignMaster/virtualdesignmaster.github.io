@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Welcome Community Sponsor - James Brown!
-date:   2016-06-23 06:00:00
+date:   2016-06-27 06:00:00
 categories: sponsor
 author: "Eric Wright"
 ---
