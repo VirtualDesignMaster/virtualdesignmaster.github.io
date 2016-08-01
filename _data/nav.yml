@@ -1,7 +1,7 @@
 - name: Home
   path: index.html
-- name: Live!
-  path: live.html
+#- name: Live!
+#  path: live.html
 - name: Blog
   path: blog/
 #- name: Compete in Season 4!
