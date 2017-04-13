@@ -13,6 +13,8 @@
 - name: Episodes
   section_id: seasons
   children:
+    - name: Season 5
+      path: season5.html
     - name: Season 4 
       path: season4.html
     - name: Season 3 
