@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Season 5 - Judges Panel"
-date:   2017-04-13 04:00:00
+date:   2017-04-15 04:00:00
 categories: event
 author: "Eric Wright"
 ---
