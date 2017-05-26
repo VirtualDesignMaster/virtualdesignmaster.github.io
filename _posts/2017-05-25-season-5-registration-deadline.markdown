@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Season 5 Registration Closing June 1st"
+title:  "Season 5 Registration Closing May 31st"
 date:   2017-05-25 11:00:00
 categories: event
 author: "Eric Wright"
